@@ -1,5 +1,5 @@
 version: "1"
 rules:
   - base: n1-19 
-    upstream: RuralHunter/n1-19 
+    upstream: RuralHunter:n1-19 
     mergeMethod: hardreset
